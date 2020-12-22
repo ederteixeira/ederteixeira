@@ -2,13 +2,11 @@
 
 Olá, eu sou **Éder Silva**.  
 
-Atualmente trabalho como analista de suporte e dados.	
+Atualmente trabalho como analista de suporte.
+Experiencia em dados.
 
-Sou usuário do sistema operacional Linux.
+User Linux.
 > Hoje estou usando o Mint 19 (Cinnamon) e estou pretendo migrar para o Debian.
-
-Estou estudando cloud.
-> Azure e Aws.
 
 Linguagem de programação
 > Python.
