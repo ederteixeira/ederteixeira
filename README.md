@@ -1,15 +1,17 @@
 # Éder.Silva
 
-Olá, eu sou **Éder Silva**.  
+Olá, me chamo **Éder Silva**.  
 
 Atualmente trabalho como analista de suporte.
-Experiencia em dados.
+Possuo experiência como analista de dados e estou estudando front-end.
+Sou um entusiasta pelo SO linux.
+> Hoje estou usando o Mint 20 (Cinnamon) e estou pretendo migrar para o Debian.
 
-User Linux.
-> Hoje estou usando o Mint 19 (Cinnamon) e estou pretendo migrar para o Debian.
-
-Linguagem de programação
-> Python.
+![Html5](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)
+![Javascirpt](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg)
+![VSCode](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg)
+![Bash](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg)
+![Python](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg)
 
 Contatos:
 
