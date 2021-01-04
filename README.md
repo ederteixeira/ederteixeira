@@ -6,8 +6,8 @@ Atualmente trabalho como analista de suporte.
 
 Possuo experiência como analista de dados e estou estudando front-end.
 
-Sou um entusiasta pelo SO linux.
-> ![Mint](https://user-images.githubusercontent.com/48259330/103496652-cf11cb00-4e1d-11eb-863e-eb95fb261e6f.png)  Mint user.
+Sou um entusiasta pelo SO linux (distro Linux Mint).
+![Mint](https://user-images.githubusercontent.com/48259330/103496652-cf11cb00-4e1d-11eb-863e-eb95fb261e6f.png) 
 
 Front-end:
 
