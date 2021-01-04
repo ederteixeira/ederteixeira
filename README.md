@@ -3,12 +3,13 @@
 Olá, me chamo **Éder Silva**.  
 
 Atualmente trabalho como analista de suporte.
+
 Possuo experiência como analista de dados e estou estudando front-end.
+
 Sou um entusiasta pelo SO linux.
-> Hoje estou usando o Mint 20 (Cinnamon) e estou pretendo migrar para o Debian.
+> ![Mint](https://user-images.githubusercontent.com/48259330/103496652-cf11cb00-4e1d-11eb-863e-eb95fb261e6f.png)  Mint user.
 
 Front-end:
-
 
 ![Html5](https://user-images.githubusercontent.com/48259330/103495559-ff576a80-4e19-11eb-9b06-0d2889460671.png)
 ![Css](https://user-images.githubusercontent.com/48259330/103495570-04b4b500-4e1a-11eb-9919-ab36e3eca638.png)
