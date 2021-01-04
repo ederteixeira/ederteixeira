@@ -16,8 +16,17 @@ Front-end:
 
 Back-end:
 
+![Python](https://user-images.githubusercontent.com/48259330/103496419-ed2afb80-4e1c-11eb-8187-3c930c29ad96.png)
 
-![Python](https://user-images.githubusercontent.com/48259330/103495848-de434980-4e1a-11eb-96f8-6d946b7f2d86.png)
+Script:
+
+![Bash](https://user-images.githubusercontent.com/48259330/103496431-f74cfa00-4e1c-11eb-9d01-9f3ea02bd2f7.png)
+
+
+Ferramentas:
+
+![Vscode](https://user-images.githubusercontent.com/48259330/103496438-003dcb80-4e1d-11eb-8caf-061eb5fa073e.png)
+
 
 Contatos:
 
