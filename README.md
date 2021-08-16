@@ -1,12 +1,12 @@
-# Éder.Silva
+# Éder Teixeira
 
-My name is **Éder**, I'm 37 years old.
+My name is Éder. I am 37 years old.
 
 I currently work as a support analyst. 
 
 I have experience in data analysis. 
 
-I am studying Systems Analysis and Development.
+I am degree in Systems Analysis and Development.
 
 I am a KOF player (fighting game) and musician (I play the violin).
 
@@ -34,4 +34,4 @@ Others:
 
 ![Vscode](https://user-images.githubusercontent.com/48259330/103496438-003dcb80-4e1d-11eb-8caf-061eb5fa073e.png)
 ![Bash](https://user-images.githubusercontent.com/48259330/103496431-f74cfa00-4e1c-11eb-9d01-9f3ea02bd2f7.png)
-![Azure](https://user-images.githubusercontent.com/48259330/103498268-e606ec00-4e22-11eb-8b98-59d51c1dd43a.png)
+
