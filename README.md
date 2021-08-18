@@ -14,7 +14,7 @@ Contact:
 
 [![Gmail Badge](https://user-images.githubusercontent.com/48259330/103498308-0f277c80-4e23-11eb-93c0-5fdd394fc759.png)](mailto:ccbeder@gmail.com)
 [![Twitter Badge](https://user-images.githubusercontent.com/48259330/103498322-1b133e80-4e23-11eb-93e3-ce84ed6aa035.png)](https://twitter.com/heavyeder)
-[![Linkedin Badge](https://user-images.githubusercontent.com/48259330/103498314-15b5f400-4e23-11eb-8778-7980d3db2a86.png)](https://www.linkedin.com/in/ederccb/) 
+[![Linkedin Badge](https://user-images.githubusercontent.com/48259330/103498314-15b5f400-4e23-11eb-8778-7980d3db2a86.png)](https://www.linkedin.com/in/teixeiraeder/) 
 
 I'm linux user.
 
