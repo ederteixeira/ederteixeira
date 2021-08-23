@@ -1,14 +1,16 @@
 # Éder Teixeira
 
-My name is Éder. I am 37 years old.
+Oi, Me chamo Éder Teixeira
 
-I currently work as a support analyst. 
+Sobre mim :
 
-I have experience in data analysis. 
+Moro em São Mateus - Zona Leste de São Paulo,SP - Brasil.
 
-I am degree in Systems Analysis and Development.
+Atualmente trabalho como analista de suporte N3.
 
-I am a KOF player (fighting game) and musician (I play the violin).
+Formado em Análise e Desenvolimento de Sistemas na UNI9.
+
+Cursando Segurança da Informação na FATEC - São Caetano do Sul.
 
 Contact:
 
