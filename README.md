@@ -19,6 +19,7 @@ Contato:
 [![Linkedin Badge](https://user-images.githubusercontent.com/48259330/103498314-15b5f400-4e23-11eb-8778-7980d3db2a86.png)](https://www.linkedin.com/in/teixeiraeder/) 
 
 Tecnologias:
+
 ![Python](https://user-images.githubusercontent.com/48259330/103496419-ed2afb80-4e1c-11eb-8187-3c930c29ad96.png)
 ![Html5](https://user-images.githubusercontent.com/48259330/103495559-ff576a80-4e19-11eb-9b06-0d2889460671.png)
 ![Css](https://user-images.githubusercontent.com/48259330/103495570-04b4b500-4e1a-11eb-9919-ab36e3eca638.png)
