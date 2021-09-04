@@ -1,16 +1,18 @@
-## Oi, eu sou o Éder Teixeira
+## Olá!!!
 
-Sou de São Paulo, SP - Brasil.
+Meu nome é **Éder Teixeira**.
 
-Analista de suporte N3 na [Capta Tecnologia](https://www.capta.com.br/)
+Sou de São Paulo capital - SP.
 
-Formado em Análise e Desenvolimento de Sistemas na Uni9.
+Formado em Análise e Desenvolvimento de Sistemas.
 
-Cursando o segundo semestre em Segurança da Informação na FATEC - São Caetano do Sul. 
+Cursando o segundo semestre em Segurança da Informação na FATEC - São Caetano do Sul.
 
-Entusiasta linux.
+Sou entusiasta linux.
 
-Toco violino nas horas vagas.
+Atualmente estou atuando como analista de suporte N3 na [Capta Tecnologia](https://www.capta.com.br/).
+
+Nas horas vagas gosto de passear com a família, jogar video game, assitir futebol (torcedor do São Caetano) e tocar violino. 
 
 * Skills:
 
