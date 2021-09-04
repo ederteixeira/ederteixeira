@@ -2,7 +2,7 @@
 
 Sou de São Paulo, SP - Brasil.
 
-Analista de suporte N3 na [Capta Tenologia](https://www.capta.com.br/)
+Analista de suporte N3 na [Capta Tecnologia](https://www.capta.com.br/)
 
 Formado em Análise e Desenvolimento de Sistemas na Uni9.
 
