@@ -18,10 +18,9 @@ Estou cursando o segundo semestre em Segurança da Informação na FATEC - São 
 
 * Tecnologias:
 
-![Python](https://user-images.githubusercontent.com/48259330/103496419-ed2afb80-4e1c-11eb-8187-3c930c29ad96.png)
-![Html5](https://user-images.githubusercontent.com/48259330/103495559-ff576a80-4e19-11eb-9b06-0d2889460671.png)
-![Css](https://user-images.githubusercontent.com/48259330/103495570-04b4b500-4e1a-11eb-9919-ab36e3eca638.png)
-![Javascript](https://user-images.githubusercontent.com/48259330/103495577-08e0d280-4e1a-11eb-8077-1f13eb032758.png)
-![Vscode](https://user-images.githubusercontent.com/48259330/103496438-003dcb80-4e1d-11eb-8caf-061eb5fa073e.png)
-![Bash](https://user-images.githubusercontent.com/48259330/103496431-f74cfa00-4e1c-11eb-9d01-9f3ea02bd2f7.png)
-![Mint](https://user-images.githubusercontent.com/48259330/103496652-cf11cb00-4e1d-11eb-863e-eb95fb261e6f.png) 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
