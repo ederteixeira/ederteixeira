@@ -1,18 +1,18 @@
-## Profile de Éder Teixeira
-
-Oi, me chamo **Éder Teixeira**.
+## Oi, eu sou o Éder Teixeira
 
 Sou de São Paulo, SP - Brasil.
 
-Atualmente trabalho como analista de suporte N3.
+Analista de suporte N3 na [Capta Tenologia](https://www.capta.com.br/)
 
-Sou formado em Análise e Desenvolimento de Sistemas na Uni9.
+Formado em Análise e Desenvolimento de Sistemas na Uni9.
 
-Estou cursando o segundo semestre em Segurança da Informação na FATEC - São Caetano do Sul. 
+Cursando o segundo semestre em Segurança da Informação na FATEC - São Caetano do Sul. 
+
+Entusiasta linux.
 
 Toco violino nas horas vagas.
 
-* Tecnologias:
+* Skills:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -22,8 +22,7 @@ Toco violino nas horas vagas.
 ![Pycharm](https://user-images.githubusercontent.com/48259330/132108039-90dffd61-2ce0-4874-b24b-9de9e8597939.png)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
-
-* Meus contatos:
+* Contato:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccbeder@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heavyeder)
