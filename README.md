@@ -2,17 +2,15 @@
 
 Oi, Me chamo Éder Teixeira
 
-Sobre mim :
-
-Moro em São Mateus - Zona Leste de São Paulo,SP - Brasil.
+Sou de São Paulo, SP - Brasil.
 
 Atualmente trabalho como analista de suporte N3.
 
-Formado em Análise e Desenvolimento de Sistemas na UNI9.
+Sou formado em Análise e Desenvolimento de Sistemas na UNI9.
 
-Cursando Segurança da Informação na FATEC - São Caetano do Sul.
+Estou cursando o segundo semestre em Segurança da Informação na FATEC - São Caetano do Sul.
 
-Contato:
+Meus contatos:
 
 [![Gmail Badge](https://user-images.githubusercontent.com/48259330/103498308-0f277c80-4e23-11eb-93c0-5fdd394fc759.png)](mailto:ccbeder@gmail.com)
 [![Twitter Badge](https://user-images.githubusercontent.com/48259330/103498322-1b133e80-4e23-11eb-93e3-ce84ed6aa035.png)](https://twitter.com/heavyeder)
