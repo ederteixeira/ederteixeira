@@ -2,7 +2,7 @@
 
 Meu nome é **Éder Teixeira**.
 
-Sou de São Paulo capital - SP.
+Sou de São Paulo - SP.
 
 Formado em Análise e Desenvolvimento de Sistemas.
 
