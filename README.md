@@ -29,3 +29,8 @@ Nas horas vagas gosto de passear com a família, jogar video game, assitir futeb
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccbeder@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heavyeder)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teixeiraeder/)
+
+* Certificado
+
+![ns1](https://user-images.githubusercontent.com/48259330/132109020-a4742fbb-f26f-41a8-b2e9-75283753af86.png)
+![ns2](https://user-images.githubusercontent.com/48259330/132109024-fadbb7d1-344f-4dff-a3af-18d2a4f525e1.png)
