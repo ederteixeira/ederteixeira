@@ -10,7 +10,7 @@ Cursando o segundo semestre em Segurança da Informação na FATEC - São Caetan
 
 Um mero entusiasta linux!
 
-Atualmente estou trabalhando como analista de suporte N3 na [Capta Tecnologia.](https://www.capta.com.br/).
+Atualmente trabalho como analista de suporte N3 na [Capta Tecnologia.](https://www.capta.com.br/).
 
 Nas horas vagas gosto de passear com a família, jogar video game, assitir futebol (torcedor do São Caetano) e tocar violino. 
 
@@ -30,7 +30,7 @@ Nas horas vagas gosto de passear com a família, jogar video game, assitir futeb
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heavyeder)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teixeiraeder/)
 
-* Certificado
+* Certificado:
 
 ![ns1](https://user-images.githubusercontent.com/48259330/132109020-a4742fbb-f26f-41a8-b2e9-75283753af86.png)
 ![ns2](https://user-images.githubusercontent.com/48259330/132109024-fadbb7d1-344f-4dff-a3af-18d2a4f525e1.png)
