@@ -8,9 +8,9 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 Cursando o segundo semestre em Segurança da Informação na FATEC - São Caetano do Sul.
 
-Sou entusiasta linux.
+Um mero entusiasta linux!
 
-Atualmente estou atuando como analista de suporte N3 na [Capta Tecnologia](https://www.capta.com.br/).
+Atualmente estou trabalhando como analista de suporte N3 na [Capta Tecnologia.](https://www.capta.com.br/).
 
 Nas horas vagas gosto de passear com a família, jogar video game, assitir futebol (torcedor do São Caetano) e tocar violino. 
 
