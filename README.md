@@ -10,9 +10,9 @@ Cursando o segundo semestre em Segurança da Informação na FATEC - São Caetan
 
 Entusiasta linux! 
 
-Atualmente trabalho como analista de suporte N3 na [Capta Tecnologia.](https://www.capta.com.br/).
+Atualmente trabalho como analista de suporte N3 na [Capta Tecnologia.](https://www.capta.com.br/)
 
-Nas horas vagas gosto de passear com a família, jogar video game, assitir futebol (torcedor do São Caetano) e tocar violino. 
+Nas horas vagas gosto de passear com a família, jogar video game, tocar violino e assistir futebol (torcedor do São Caetano, querido azulão). 
 
 * Skills:
 
