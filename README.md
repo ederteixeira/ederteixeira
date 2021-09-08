@@ -31,7 +31,7 @@ Nas horas vagas gosto de passear com a família, jogar video game, assitir futeb
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 * S.O.:
-* 
+
 ![Kubuntu](https://camo.githubusercontent.com/dda0b51b7c1f4cb949b27bfb29c3786bd6eb210b8baf4f45f24f403f31e83be4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b7562756e747526636f6c6f723d303037394331266c6f676f3d4b7562756e7475266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 * Controle de versão:
