@@ -8,11 +8,13 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 Cursando o segundo semestre em Segurança da Informação na FATEC - São Caetano do Sul.
 
-Entusiasta linux! 
+![image](https://user-images.githubusercontent.com/48259330/136490522-46112584-7020-4ba7-adc7-ad1d0df564c9.png) Entusiasta linux! 
 
 Atualmente trabalho como analista de suporte N3.
 
-Nas horas vagas gosto de passear com a família, jogar video game, tocar violino e assistir futebol (torcedor do São Caetano, querido azulão). 
+Nas horas vagas gosto de passear com a família, jogar video game, tocar violino e assistir futebol.
+
+![image](https://user-images.githubusercontent.com/48259330/136490777-56a5465b-94ab-4dec-9642-2306e09044ef.png)Torcedor do São Caetano 
 
 * Skills:
 
