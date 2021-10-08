@@ -1,6 +1,11 @@
 ## Olá!!!
 
+![image](https://user-images.githubusercontent.com/48259330/136490522-46112584-7020-4ba7-adc7-ad1d0df564c9.png) 
+
+
+
 Meu nome é **Éder Teixeira**.
+
 
 Sou de São Paulo - SP.
 
@@ -8,19 +13,11 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 Cursando o segundo semestre em Segurança da Informação na FATEC - São Caetano do Sul.
 
-![image](https://user-images.githubusercontent.com/48259330/136490522-46112584-7020-4ba7-adc7-ad1d0df564c9.png) Entusiasta linux! 
+Entusiasta linux! 
 
 Atualmente trabalho como analista de suporte N3.
 
-Nas horas vagas gosto de passear com a família, jogar video game, tocar violino e assistir futebol (Torcedor do São Caetano).
-
-<div align="left">
-  <a href="https://github.com/ederteixeira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ederteixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederteixeira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-  
+Nas horas vagas gosto de passear com a família, jogar video game, tocar violino e assistir futebol (Torcedor do São Caetano).  
 
 * Skills:
 
@@ -57,3 +54,9 @@ Nas horas vagas gosto de passear com a família, jogar video game, tocar violino
 
 ![ns1](https://user-images.githubusercontent.com/48259330/132109020-a4742fbb-f26f-41a8-b2e9-75283753af86.png)
 ![ns2](https://user-images.githubusercontent.com/48259330/132109024-fadbb7d1-344f-4dff-a3af-18d2a4f525e1.png)
+
+<div align="left">
+  <a href="https://github.com/ederteixeira">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ederteixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederteixeira&layout=compact&langs_count=7&theme=dark"/>
+</div>
