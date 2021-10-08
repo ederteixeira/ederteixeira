@@ -14,7 +14,15 @@ Atualmente trabalho como analista de suporte N3.
 
 Nas horas vagas gosto de passear com a família, jogar video game, tocar violino e assistir futebol.
 
-![image](https://user-images.githubusercontent.com/48259330/136490777-56a5465b-94ab-4dec-9642-2306e09044ef.png)Torcedor do São Caetano 
+![image](https://user-images.githubusercontent.com/48259330/136490777-56a5465b-94ab-4dec-9642-2306e09044ef.png)Torcedor do São Caetano.
+
+
+<div align="center">
+  <a href="https://github.com/ederteixeira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederteixeira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 * Skills:
 
