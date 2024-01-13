@@ -23,7 +23,7 @@ Nas horas vagas gosto de passear com a família, jogar video game, tocar violino
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQLSERVER]([https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLSERVER]([https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white))
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 * IDE / Editor:
